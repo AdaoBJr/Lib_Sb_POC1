@@ -1,6 +1,6 @@
 {
   "name": "localizalabs-ui-poc1",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "author": "Adao Benites Arce Junior",
   "main": "dist/index.js",
   "license": "MIT",
