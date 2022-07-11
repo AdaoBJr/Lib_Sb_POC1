@@ -1,8 +1,0 @@
-node_modules
-stories
-tsconfig.json
-
-.github
-__tests__
-tests
-yarn-error.log
