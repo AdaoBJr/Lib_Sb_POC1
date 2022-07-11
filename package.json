@@ -1,9 +1,13 @@
 {
   "name": "localizalabs-ui-poc1",
-  "version": "1.0.3",
+  "version": "1.0.10",
   "author": "Adao Benites Arce Junior",
   "main": "dist/index.js",
   "license": "MIT",
+  "files": [
+    "dist/*",
+    "dist/**/*"
+  ],
   "scripts": {
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
